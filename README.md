@@ -32,7 +32,7 @@ Deep learning-based system for automatic segmentation of the knee meniscus using
 - MRNet Dataset: https://stanfordmlgroup.github.io/competitions/mrnet/
 - U-Net Paper: [Ronneberger et al. (2015)](https://arxiv.org/abs/1505.04597)
 - Nested U-Net: [Zhou et al. (2018)](https://arxiv.org/abs/1805.04366)
-
+- Complete Project: [Click Here](https://drive.google.com/drive/folders/1btel0osrMEvESIuL0W_s-ameWWUUUHCk?usp=drive_link)
 ---
 
 ## 🚀 Future Work
